@@ -1,0 +1,13 @@
+.div1{
+    display: flex;
+}
+.div2{
+    border: 2px solid black;
+    text-align: center;
+    width: 300px;
+    padding: 40px;
+    background-color: rgb(148, 253, 218);
+}
+.img1{
+    width: 200px;
+}
